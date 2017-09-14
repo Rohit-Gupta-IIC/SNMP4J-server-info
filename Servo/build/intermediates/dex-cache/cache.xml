@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\moham\.android\build-cache\65215710f8196fa992ff8e43ab64015347fb33d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\moham\AndroidStudioProjects\Servo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d6b17dae6aad5e7e53cf5000cf170f9518be516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moham\AndroidStudioProjects\Servo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9814abb7bd3cb9f43ea65a7345394cc6346b411">
+        <dex dex="C:\Users\moham\AndroidStudioProjects\Servo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_db39fcc554db2163a0fb9a2426efc1eccfcad744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moham\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\Users\moham\AndroidStudioProjects\Servo\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.2.4_355cf37fa50283d91dbf194e23e187993da8faca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moham\AndroidStudioProjects\Servo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\moham\AndroidStudioProjects\Servo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_771aedef79874c365ac6bba32e21d3c73be69db5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moham\AndroidStudioProjects\Servo\app\libs\snmp4j-2.5.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc152ae9f1d9484eab5e9df925346560cb1ef864">
+        <dex dex="C:\Users\moham\AndroidStudioProjects\Servo\app\build\intermediates\transforms\dex\debug\folders\1000\2\snmp4j-2.5.6_7fa0abef57ac89e1c5ad2f00408865fe56a0e419\classes.dex" />
+    </item>
+
+</items>
